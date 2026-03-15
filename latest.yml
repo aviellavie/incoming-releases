@@ -1,8 +1,8 @@
-version: 1.1.0-beta.1
+version: 1.1.0-beta.2
 files:
-  - url: Incoming-Setup-1.1.0-beta.1.exe
-    sha512: EzcAWB2DnNcsv1MkApfZ+8kNUpfEdRv9ykxss5hbnIdsjy8MGVyGwpZ0mzOMwuGb6HJuvokPTZvppOne3XEwTg==
-    size: 82721766
-path: Incoming-Setup-1.1.0-beta.1.exe
-sha512: EzcAWB2DnNcsv1MkApfZ+8kNUpfEdRv9ykxss5hbnIdsjy8MGVyGwpZ0mzOMwuGb6HJuvokPTZvppOne3XEwTg==
-releaseDate: '2026-03-14T22:59:35.927Z'
+  - url: Incoming-Setup-1.1.0-beta.2.exe
+    sha512: 0U3Aj5c2VQ+3I8zlcuaPOuwN4pI2oy65aiJYBHL/KmfqkFk7GdUDs0Zl+q9eevlK/9zc6Nw072bHLQHiyW2JaQ==
+    size: 82721543
+path: Incoming-Setup-1.1.0-beta.2.exe
+sha512: 0U3Aj5c2VQ+3I8zlcuaPOuwN4pI2oy65aiJYBHL/KmfqkFk7GdUDs0Zl+q9eevlK/9zc6Nw072bHLQHiyW2JaQ==
+releaseDate: '2026-03-15T07:06:11.473Z'
